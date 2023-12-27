@@ -1,2 +1,2 @@
 # Amazon-
-This is my first Git Repository.
+Project on Amazon website.
